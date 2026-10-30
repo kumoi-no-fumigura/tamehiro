@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamehiro",
  "yomi": "さきのだいなごんためひろきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "室町後期",
+  "author": "冷泉為広",
+  "desc": "冷泉為広の家集。立春から始まる題詠を四季・恋・雑に分けて収め、折句・沓冠・旋頭歌などの雑体歌も含む。"
+ },
  "editions": [
   {
    "pid": "936505",
